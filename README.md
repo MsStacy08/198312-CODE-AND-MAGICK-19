@@ -6,3 +6,4 @@ Example for
 - show data in a chart
 
 ## cmd + url
+node addData2sqlite.js
