@@ -7,3 +7,4 @@ Example for
 
 ## cmd + url
 node addData2sqlite.js
+node importFile event.txt
