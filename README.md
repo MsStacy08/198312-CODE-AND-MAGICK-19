@@ -11,3 +11,6 @@ node importFile event.txt
 cmd: node showChart.js URL: http://localhost:3005
 
 ## needed packages
+  "chart.js": "^2.7.2",
+ 
+  "express": "^4.16.3",
