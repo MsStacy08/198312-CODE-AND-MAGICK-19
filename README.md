@@ -9,3 +9,5 @@ Example for
 node addData2sqlite.js
 node importFile event.txt
 cmd: node showChart.js URL: http://localhost:3005
+
+## needed packages
