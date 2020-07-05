@@ -1,1 +1,1 @@
-// add data to a sq
+// add data to a sql
