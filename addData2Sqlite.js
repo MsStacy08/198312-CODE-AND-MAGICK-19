@@ -1,1 +1,1 @@
-// add data to a sqlite databa
+// add data to a sqlite databas
