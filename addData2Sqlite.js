@@ -1,1 +1,1 @@
-// add data to a sqlite databases in 
+// add data to a sqlite databases in js
