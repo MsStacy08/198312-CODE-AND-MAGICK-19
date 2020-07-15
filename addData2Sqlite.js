@@ -1,2 +1,2 @@
 // add data to a sqlite databases in js
-// by 
+// by n
