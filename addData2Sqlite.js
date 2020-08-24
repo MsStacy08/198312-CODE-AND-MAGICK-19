@@ -2,4 +2,4 @@
 // by node addData2sqlite.js
 
 const readline = require('readline');
-const fs =
+const fs = 
