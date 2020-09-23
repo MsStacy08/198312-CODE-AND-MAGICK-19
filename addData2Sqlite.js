@@ -3,4 +3,4 @@
 
 const readline = require('readline');
 const fs = require('fs');
-const sqlite3 = require('sqlite3').ver
+const sqlite3 = require('sqlite3').verb
