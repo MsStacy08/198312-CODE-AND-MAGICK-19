@@ -5,4 +5,4 @@ const readline = require('readline');
 const fs = require('fs');
 const sqlite3 = require('sqlite3').verbose();
 
-var res = ['mylog.txt','03.10.2018','m1','Area1','ok','L
+var res = ['mylog.txt','03.10.2018','m1','Area1','ok','Lo
