@@ -10,4 +10,4 @@ let db;
 // exist database
 fs.exists('./event.db', function(exists) {
   if (exists) {
-    // File exi
+    // File exis
