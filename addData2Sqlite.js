@@ -11,4 +11,4 @@ let db;
 fs.exists('./event.db', function(exists) {
   if (exists) {
     // File exist
-    conso
+    consol
