@@ -12,3 +12,4 @@ fs.exists('./event.db', function(exists) {
   if (exists) {
     // File exist
     console.log('open database');
+  
