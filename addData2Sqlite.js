@@ -12,4 +12,4 @@ fs.exists('./event.db', function(exists) {
   if (exists) {
     // File exist
     console.log('open database');
-    db = new sqlite3.Database('./ev
+    db = new sqlite3.Database('./eve
