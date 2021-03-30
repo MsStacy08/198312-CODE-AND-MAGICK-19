@@ -15,4 +15,4 @@ fs.exists('./event.db', function(exists) {
     db = new sqlite3.Database('./event.db');
     DoMain(db,res);
   } else {
-    // database is no
+    // database is not
