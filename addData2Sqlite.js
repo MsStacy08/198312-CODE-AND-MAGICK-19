@@ -16,4 +16,4 @@ fs.exists('./event.db', function(exists) {
     DoMain(db,res);
   } else {
     // database is not existing
-    console.log('open database a
+    console.log('open database an
