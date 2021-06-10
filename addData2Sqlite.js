@@ -17,4 +17,4 @@ fs.exists('./event.db', function(exists) {
   } else {
     // database is not existing
     console.log('open database and create table');
-    db = new sqlite3.Database('./eve
+    db = new sqlite3.Database('./event
