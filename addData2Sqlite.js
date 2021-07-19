@@ -18,4 +18,4 @@ fs.exists('./event.db', function(exists) {
     // database is not existing
     console.log('open database and create table');
     db = new sqlite3.Database('./event.db',() => {
-      db.run('CREATE TABLE logTable(logfile TEXT,log
+      db.run('CREATE TABLE logTable(logfile TEXT,logd
