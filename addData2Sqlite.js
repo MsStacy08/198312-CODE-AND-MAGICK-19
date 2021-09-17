@@ -24,3 +24,4 @@ fs.exists('./event.db', function(exists) {
     
     });
   }  
+ 
