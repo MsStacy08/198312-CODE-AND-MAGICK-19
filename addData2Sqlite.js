@@ -25,4 +25,4 @@ fs.exists('./event.db', function(exists) {
     });
   }  
   });   
-functio
+function
