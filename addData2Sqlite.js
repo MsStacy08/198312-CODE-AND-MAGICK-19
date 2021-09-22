@@ -25,4 +25,4 @@ fs.exists('./event.db', function(exists) {
     });
   }  
   });   
-function DoM
+function DoMai
