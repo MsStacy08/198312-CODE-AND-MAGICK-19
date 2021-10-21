@@ -29,4 +29,4 @@ function DoMain(db,res) {
   var logEntry = {
   logfile:"-",
   logdate:"-",
-  ref
+  refe
