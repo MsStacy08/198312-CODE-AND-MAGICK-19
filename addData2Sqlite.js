@@ -30,4 +30,4 @@ function DoMain(db,res) {
   logfile:"-",
   logdate:"-",
   referto:'-',
-  area
+  area:
