@@ -31,4 +31,4 @@ function DoMain(db,res) {
   logdate:"-",
   referto:'-',
   area:"-",
-  status
+  status:"-
