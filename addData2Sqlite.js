@@ -33,4 +33,4 @@ function DoMain(db,res) {
   area:"-",
   status:"-",
   action:"-"
-}
+};
