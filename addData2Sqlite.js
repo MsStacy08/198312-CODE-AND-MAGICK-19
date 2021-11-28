@@ -34,4 +34,4 @@ function DoMain(db,res) {
   status:"-",
   action:"-"
 };
-    // map fiel
+    // map fields
