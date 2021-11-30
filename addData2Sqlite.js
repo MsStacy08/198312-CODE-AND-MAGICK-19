@@ -34,4 +34,4 @@ function DoMain(db,res) {
   status:"-",
   action:"-"
 };
-    // map fields to e
+    // map fields to ent
