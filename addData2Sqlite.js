@@ -36,3 +36,4 @@ function DoMain(db,res) {
 };
     // map fields to entry
       entryDate = '-';
+ 
