@@ -37,4 +37,4 @@ function DoMain(db,res) {
     // map fields to entry
       entryDate = '-';
       logEntry.logfile = res[0];
-      logEnt
+      logEntr
