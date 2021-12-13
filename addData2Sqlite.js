@@ -38,4 +38,4 @@ function DoMain(db,res) {
       entryDate = '-';
       logEntry.logfile = res[0];
       logEntry.logdate = res[1];
-  
+    
