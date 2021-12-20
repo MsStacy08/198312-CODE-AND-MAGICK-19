@@ -40,4 +40,4 @@ function DoMain(db,res) {
       logEntry.logdate = res[1];
     
       logEntry.action = res[5]; 
-  
+   
