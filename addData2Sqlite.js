@@ -40,4 +40,4 @@ function DoMain(db,res) {
       logEntry.logdate = res[1];
     
       logEntry.action = res[5]; 
-      logEntry.area = res[2
+      logEntry.area = res[2]
