@@ -41,4 +41,4 @@ function DoMain(db,res) {
     
       logEntry.action = res[5]; 
       logEntry.area = res[2];
-      logEntry.referto = res[
+      logEntry.referto = res[3
