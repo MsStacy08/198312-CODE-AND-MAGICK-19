@@ -44,4 +44,4 @@ function DoMain(db,res) {
       logEntry.referto = res[3];
       logEntry.status = res[4];
 
-      doAdd2DB(db,lo
+      doAdd2DB(db,logE
