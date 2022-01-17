@@ -45,4 +45,4 @@ function DoMain(db,res) {
       logEntry.status = res[4];
 
       doAdd2DB(db,logEntry);
-      console.log(log
+      console.log(logE
