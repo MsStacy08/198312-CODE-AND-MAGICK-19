@@ -47,3 +47,5 @@ function DoMain(db,res) {
       doAdd2DB(db,logEntry);
       console.log(logEntry);
 }
+
+f
