@@ -48,4 +48,4 @@ function DoMain(db,res) {
       console.log(logEntry);
 }
 
-function 
+function d
