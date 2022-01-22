@@ -48,4 +48,4 @@ function DoMain(db,res) {
       console.log(logEntry);
 }
 
-function doAdd2DB(db,en
+function doAdd2DB(db,ent
