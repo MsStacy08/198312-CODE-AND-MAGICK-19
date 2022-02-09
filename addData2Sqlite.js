@@ -49,4 +49,4 @@ function DoMain(db,res) {
 }
 
 function doAdd2DB(db,entry) {
-db.r
+db.run
