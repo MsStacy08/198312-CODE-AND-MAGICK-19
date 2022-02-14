@@ -49,4 +49,4 @@ function DoMain(db,res) {
 }
 
 function doAdd2DB(db,entry) {
-db.run("INSERT OR I
+db.run("INSERT OR IG
