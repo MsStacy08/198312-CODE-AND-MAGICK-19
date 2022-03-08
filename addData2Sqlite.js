@@ -49,4 +49,4 @@ function DoMain(db,res) {
 }
 
 function doAdd2DB(db,entry) {
-db.run("INSERT OR IGNORE INTO logTable (logfile, logdate, referto, area, s
+db.run("INSERT OR IGNORE INTO logTable (logfile, logdate, referto, area, sta
