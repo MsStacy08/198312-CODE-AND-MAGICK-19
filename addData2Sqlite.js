@@ -50,4 +50,4 @@ function DoMain(db,res) {
 
 function doAdd2DB(db,entry) {
 db.run("INSERT OR IGNORE INTO logTable (logfile, logdate, referto, area, status, action) VALUES (?,?,?,?,?,?)",
- [entry["logfile"], entry["logdate"], entry["referto"], entry["area"
+ [entry["logfile"], entry["logdate"], entry["referto"], entry["area"],
