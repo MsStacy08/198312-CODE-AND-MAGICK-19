@@ -54,4 +54,4 @@ db.run("INSERT OR IGNORE INTO logTable (logfile, logdate, referto, area, status,
   if (err) {
     return console.log(err.message);
   } else {
-  
+   
