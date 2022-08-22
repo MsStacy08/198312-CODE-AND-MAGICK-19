@@ -56,4 +56,5 @@ db.run("INSERT OR IGNORE INTO logTable (logfile, logdate, referto, area, status,
   } else {
       db.close();
   }
-  // get the last insert 
+  // get the last insert id
+ 
