@@ -58,3 +58,4 @@ db.run("INSERT OR IGNORE INTO logTable (logfile, logdate, referto, area, status,
   }
   // get the last insert id
   console.log(`A row has been inserted with rowid ${this.lastID}`);
+}
