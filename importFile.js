@@ -7,3 +7,5 @@ const readline = require('readline');
 const fs = require('fs');
 
 var filename = 'c:\\temp\\event.txt'; 
+
+// read commandline
