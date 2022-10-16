@@ -12,3 +12,6 @@ var filename = 'c:\\temp\\event.txt';
 if ( process.argv[2]) {
   filename =  process.argv[2];
 }
+
+DoMain();
+  
