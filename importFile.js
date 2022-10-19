@@ -16,3 +16,5 @@ if ( process.argv[2]) {
 DoMain();
   
   
+// *** main ***
+function DoMain() {
