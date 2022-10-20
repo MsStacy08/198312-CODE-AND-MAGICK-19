@@ -19,3 +19,4 @@ DoMain();
 // *** main ***
 function DoMain() {
 // check if file exists
+fs.exists(filename, function(exists) {
