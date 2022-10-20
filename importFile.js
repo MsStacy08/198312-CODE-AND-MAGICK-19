@@ -18,3 +18,4 @@ DoMain();
   
 // *** main ***
 function DoMain() {
+// check if file exists
