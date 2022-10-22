@@ -21,3 +21,4 @@ function DoMain() {
 // check if file exists
 fs.exists(filename, function(exists) {
   if (exists) {
+    // File exist + import
