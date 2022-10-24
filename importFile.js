@@ -23,3 +23,4 @@ fs.exists(filename, function(exists) {
   if (exists) {
     // File exist + import
     console.log( 'read file -> ' + process.argv[2]);
+    DoReadFile(filename);
