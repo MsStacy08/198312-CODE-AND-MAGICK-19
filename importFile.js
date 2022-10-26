@@ -29,3 +29,5 @@ fs.exists(filename, function(exists) {
     console.log('File ' + filename + ' is not existing');
     process.exit(1);  
   }
+  });
+// *** End main ***
