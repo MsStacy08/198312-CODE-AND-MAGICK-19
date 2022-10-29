@@ -34,3 +34,4 @@ fs.exists(filename, function(exists) {
 
 // read file
 function DoReadFile(filename) {
+// open file
