@@ -36,3 +36,5 @@ fs.exists(filename, function(exists) {
 function DoReadFile(filename) {
 // open file
 const rl = readline.createInterface({
+  input: fs.createReadStream(filename),
+  crlfDelay: Infinity
