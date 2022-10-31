@@ -38,3 +38,7 @@ function DoReadFile(filename) {
 const rl = readline.createInterface({
   input: fs.createReadStream(filename),
   crlfDelay: Infinity
+});
+// help fields
+var keys = ['action1',
+            'action2',
