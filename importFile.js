@@ -45,3 +45,4 @@ var keys = ['action1',
             'action3'];
 var LogAction = ['Ereignis1','Ereignis2','Ereignis3'];
 var logEntry = {
+  logfile:"-",
