@@ -42,3 +42,4 @@ const rl = readline.createInterface({
 // help fields
 var keys = ['action1',
             'action2',
+            'action3'];
