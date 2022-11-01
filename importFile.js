@@ -43,3 +43,5 @@ const rl = readline.createInterface({
 var keys = ['action1',
             'action2',
             'action3'];
+var LogAction = ['Ereignis1','Ereignis2','Ereignis3'];
+var logEntry = {
