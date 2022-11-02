@@ -46,3 +46,5 @@ var keys = ['action1',
 var LogAction = ['Ereignis1','Ereignis2','Ereignis3'];
 var logEntry = {
   logfile:"-",
+  logdate:"-",
+  referto:'-',
