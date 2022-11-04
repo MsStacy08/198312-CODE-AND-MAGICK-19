@@ -48,3 +48,4 @@ var logEntry = {
   logfile:"-",
   logdate:"-",
   referto:'-',
+  area:"-",
