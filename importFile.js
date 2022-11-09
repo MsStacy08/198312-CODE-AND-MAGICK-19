@@ -49,3 +49,4 @@ var logEntry = {
   logdate:"-",
   referto:'-',
   area:"-",
+  status:"-",
