@@ -50,3 +50,5 @@ var logEntry = {
   referto:'-',
   area:"-",
   status:"-",
+  action:"-"
+};
