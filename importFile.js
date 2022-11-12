@@ -52,3 +52,5 @@ var logEntry = {
   status:"-",
   action:"-"
 };
+
+var found = '-';
