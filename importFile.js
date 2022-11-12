@@ -54,3 +54,5 @@ var logEntry = {
 };
 
 var found = '-';
+var i = 0;
+// read lines
