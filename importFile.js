@@ -56,3 +56,5 @@ var logEntry = {
 var found = '-';
 var i = 0;
 // read lines
+rl.on('line', (line) => {
+  i++;
