@@ -59,3 +59,4 @@ var i = 0;
 rl.on('line', (line) => {
   i++;
   var j = 0;
+  var _res = '-';
