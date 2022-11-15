@@ -58,3 +58,4 @@ var i = 0;
 // read lines
 rl.on('line', (line) => {
   i++;
+  var j = 0;
