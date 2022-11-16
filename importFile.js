@@ -60,3 +60,4 @@ rl.on('line', (line) => {
   i++;
   var j = 0;
   var _res = '-';
+  console.log('parse line: '+i);
