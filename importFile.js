@@ -61,3 +61,5 @@ rl.on('line', (line) => {
   var j = 0;
   var _res = '-';
   console.log('parse line: '+i);
+  for(j=0;j < keys.length;j++) {
+    _res = parseKey(line,keys[j]);
