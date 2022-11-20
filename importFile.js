@@ -64,3 +64,4 @@ rl.on('line', (line) => {
   for(j=0;j < keys.length;j++) {
     _res = parseKey(line,keys[j]);
     if (_res !== '-') {
+      // split line to array (replace tab by space)
