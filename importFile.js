@@ -67,3 +67,4 @@ rl.on('line', (line) => {
       // split line to array (replace tab by space)
       res = _res.split(' ').join('\t').split('\t');
       res.forEach(element => {
+        element = element.trim();
