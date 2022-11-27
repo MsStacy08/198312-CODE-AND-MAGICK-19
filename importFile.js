@@ -70,3 +70,4 @@ rl.on('line', (line) => {
         element = element.trim();
       });
       // remove double spaces
+      for(k=0;k<res.length;k++) {
