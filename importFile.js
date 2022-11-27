@@ -68,3 +68,5 @@ rl.on('line', (line) => {
       res = _res.split(' ').join('\t').split('\t');
       res.forEach(element => {
         element = element.trim();
+      });
+      // remove double spaces
