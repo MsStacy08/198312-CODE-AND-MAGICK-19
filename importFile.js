@@ -72,3 +72,5 @@ rl.on('line', (line) => {
       // remove double spaces
       for(k=0;k<res.length;k++) {
         if (res[k] === '') {
+          res.splice(k, 1);
+          k--;
