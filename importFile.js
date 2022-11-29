@@ -74,3 +74,4 @@ rl.on('line', (line) => {
         if (res[k] === '') {
           res.splice(k, 1);
           k--;
+        }
