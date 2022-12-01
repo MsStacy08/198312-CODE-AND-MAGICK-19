@@ -76,3 +76,4 @@ rl.on('line', (line) => {
           k--;
         }
       }
+      // map fields to entry
