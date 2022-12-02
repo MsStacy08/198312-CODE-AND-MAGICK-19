@@ -77,3 +77,5 @@ rl.on('line', (line) => {
         }
       }
       // map fields to entry
+      logEntry.logfile = filename;
+      entryDate = '-';
