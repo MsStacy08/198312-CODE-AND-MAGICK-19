@@ -80,3 +80,4 @@ rl.on('line', (line) => {
       logEntry.logfile = filename;
       entryDate = '-';
       entryDate = res[1];
+      entryDate.replace('-',' ');
