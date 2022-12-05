@@ -81,3 +81,4 @@ rl.on('line', (line) => {
       entryDate = '-';
       entryDate = res[1];
       entryDate.replace('-',' ');
+      entryDate.replace('/','-');
