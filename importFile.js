@@ -83,3 +83,4 @@ rl.on('line', (line) => {
       entryDate.replace('-',' ');
       entryDate.replace('/','-');
       logEntry.logdate = entryDate;
+    
