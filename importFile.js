@@ -85,3 +85,4 @@ rl.on('line', (line) => {
       logEntry.logdate = entryDate;
     
       logEntry.status = 'ok';
+      logEntry.action = LogAction[j]; 
