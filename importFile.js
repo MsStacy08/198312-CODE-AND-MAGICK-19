@@ -86,3 +86,5 @@ rl.on('line', (line) => {
     
       logEntry.status = 'ok';
       logEntry.action = LogAction[j]; 
+      logEntry.area = res[3];
+      logEntry.referto = res[2];
