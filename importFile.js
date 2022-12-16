@@ -89,3 +89,5 @@ rl.on('line', (line) => {
       logEntry.area = res[3];
       logEntry.referto = res[2];
       logEntry.status = res[4];
+
+      console.log(logEntry);
