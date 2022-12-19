@@ -91,3 +91,5 @@ rl.on('line', (line) => {
       logEntry.status = res[4];
 
       console.log(logEntry);
+    };
+    found = '-'; 
