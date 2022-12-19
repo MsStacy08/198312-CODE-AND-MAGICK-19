@@ -93,3 +93,4 @@ rl.on('line', (line) => {
       console.log(logEntry);
     };
     found = '-'; 
+  };
