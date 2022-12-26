@@ -103,3 +103,5 @@ rl.on('line', (line) => {
 function parseKey(line,key) {
     _found = line.toString().match(key);
     if (_found) {
+      return(line);
+    } else {
