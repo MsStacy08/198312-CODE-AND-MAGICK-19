@@ -105,3 +105,4 @@ function parseKey(line,key) {
     if (_found) {
       return(line);
     } else {
+      return '-';
