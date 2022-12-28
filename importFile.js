@@ -106,3 +106,4 @@ function parseKey(line,key) {
       return(line);
     } else {
       return '-';
+    }
