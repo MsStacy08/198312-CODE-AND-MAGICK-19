@@ -2,3 +2,5 @@
 {
   "name": "parse_dsplog",
   "version": "1.0.0",
+  "description": "parse DSP Logfile",
+  "main": "index.js",
