@@ -15,3 +15,5 @@
     "npm"
   ],
   "author": "Michael Graßmann",
+  "license": "ISC",
+  "dependencies": {
