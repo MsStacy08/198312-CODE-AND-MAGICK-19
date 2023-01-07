@@ -17,3 +17,4 @@
   "author": "Michael Graßmann",
   "license": "ISC",
   "dependencies": {
+    "chart.js": "^2.7.2",
