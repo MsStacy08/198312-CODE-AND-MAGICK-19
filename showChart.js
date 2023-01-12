@@ -1,2 +1,3 @@
 
 /**** 
+cmd: node showChart.js
