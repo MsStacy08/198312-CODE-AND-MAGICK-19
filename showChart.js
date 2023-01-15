@@ -9,3 +9,5 @@ const fs = require('fs');
 var express = require('express');
 var app = express();
 var path = require('path');
+var Chart = require('chart.js');
+var result =[3,6,9];
