@@ -16,3 +16,5 @@ app.get('/', function(req, res){
     let _resLine = '<h1>Ereignisse: ' + result+'</h1>';
     console.log('show chart:');
     console.log(_resLine);
+
+    _html = "<script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js'></script>"+
