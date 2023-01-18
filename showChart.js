@@ -15,3 +15,4 @@ var result =[3,6,9];
 app.get('/', function(req, res){
     let _resLine = '<h1>Ereignisse: ' + result+'</h1>';
     console.log('show chart:');
+    console.log(_resLine);
