@@ -19,3 +19,6 @@ app.get('/', function(req, res){
 
     _html = "<script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js'></script>"+
     "<canvas id='bar-chart' width='800' height='450'></canvas>"+
+    "<script>"+
+    "var logChart = new Chart(document.getElementById('bar-chart'), {"+
+    "type: 'horizontalBar',"+
