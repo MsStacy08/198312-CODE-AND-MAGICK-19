@@ -23,3 +23,4 @@ app.get('/', function(req, res){
     "var logChart = new Chart(document.getElementById('bar-chart'), {"+
     "type: 'horizontalBar',"+
     "data: {"+
+      "labels: ['Ereignis1', 'Ereignis2', 'Ereignis3'],"+
