@@ -22,3 +22,4 @@ app.get('/', function(req, res){
     "<script>"+
     "var logChart = new Chart(document.getElementById('bar-chart'), {"+
     "type: 'horizontalBar',"+
+    "data: {"+
