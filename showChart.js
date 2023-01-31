@@ -25,3 +25,4 @@ app.get('/', function(req, res){
     "data: {"+
       "labels: ['Ereignis1', 'Ereignis2', 'Ereignis3'],"+
       "datasets: ["+
+        "{"+
