@@ -24,3 +24,4 @@ app.get('/', function(req, res){
     "type: 'horizontalBar',"+
     "data: {"+
       "labels: ['Ereignis1', 'Ereignis2', 'Ereignis3'],"+
+      "datasets: ["+
