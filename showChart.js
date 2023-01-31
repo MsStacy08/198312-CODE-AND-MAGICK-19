@@ -26,3 +26,5 @@ app.get('/', function(req, res){
       "labels: ['Ereignis1', 'Ereignis2', 'Ereignis3'],"+
       "datasets: ["+
         "{"+
+          "label: 'Aufrufe',"+
+          "backgroundColor: ['#3e95cd', '#8e5ea2','#3cba9f'],"+
