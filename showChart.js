@@ -29,3 +29,4 @@ app.get('/', function(req, res){
           "label: 'Aufrufe',"+
           "backgroundColor: ['#3e95cd', '#8e5ea2','#3cba9f'],"+
           "data: ["+result[0]+","+result[1]+","+result[2]+"]"+
+        "}"+
