@@ -33,3 +33,4 @@ app.get('/', function(req, res){
       "]"+
       "},"+
     "options: {"+
+      "legend: { display: false },"+
