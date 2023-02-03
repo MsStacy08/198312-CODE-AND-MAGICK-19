@@ -32,3 +32,4 @@ app.get('/', function(req, res){
         "}"+
       "]"+
       "},"+
+    "options: {"+
