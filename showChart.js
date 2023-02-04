@@ -36,3 +36,5 @@ app.get('/', function(req, res){
       "legend: { display: false },"+
       "title: {"+
         "display: true,"+
+        "text: 'Ereignisse '"+
+      "}"+
