@@ -35,3 +35,4 @@ app.get('/', function(req, res){
     "options: {"+
       "legend: { display: false },"+
       "title: {"+
+        "display: true,"+
