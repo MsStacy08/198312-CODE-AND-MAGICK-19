@@ -40,3 +40,4 @@ app.get('/', function(req, res){
       "}"+
     "}"+
     "});"+
+    "</script>";
