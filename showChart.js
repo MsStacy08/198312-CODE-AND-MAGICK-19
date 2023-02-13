@@ -38,3 +38,5 @@ app.get('/', function(req, res){
         "display: true,"+
         "text: 'Ereignisse '"+
       "}"+
+    "}"+
+    "});"+
