@@ -41,3 +41,6 @@ app.get('/', function(req, res){
     "}"+
     "});"+
     "</script>";
+
+    res.send(_html);
+});
